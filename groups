@@ -1,6 +1,4 @@
 # UUID                 	Group Name
 #
-global:Anonymous-Users 	Anonymous Users
 global:Registered-Users	Registered Users
-user:gentigr           	user/gentigr (gentigr)
 user:i4s               	user/i4s
