@@ -1,6 +1,5 @@
 # UUID                 	Group Name
 #
-global:Anonymous-Users 	Anonymous Users
 global:Change-Owner    	Change Owner
 global:Registered-Users	Registered Users
 user:i4s               	user/ik (i4s)
